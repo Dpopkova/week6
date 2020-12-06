@@ -13,7 +13,7 @@ app.get('/sha1/:input/', (req, res, next) => {
 })
 
 app.get('/login/', (req, res) => {
-  res.send('itmo286135')
+  res.send('itmo283528')
 })
 
 app.get('/code/', (req, res) => {
